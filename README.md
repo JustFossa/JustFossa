@@ -4,7 +4,7 @@ I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh 
 
 ## Projects
 
-None yet (Lazy)
+None rn(Lazy), some discord projects coming soon
 
 ## Github Stats
 
