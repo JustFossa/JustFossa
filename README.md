@@ -8,7 +8,7 @@ None rn (Lazy), some discord projects coming soon
 
 ## Github Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&layout=compact)
