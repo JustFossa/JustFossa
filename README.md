@@ -15,6 +15,9 @@ None rn (Lazy), some discord projects coming soon
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
 
+## Wanna contribute?
+If you want to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
+
 ## Feel free to support me
 <a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
 
