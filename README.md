@@ -18,7 +18,7 @@ None rn (Lazy), some discord projects coming soon
 ## Feel free to support me
 <a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
 
-**Or**
+#**Or**
 
 [![paypal](https://pics.paypal.com/00/s/YjBmNTRiY2ItOWJiZS00NzY1LWFhYzItZTBlOTk0ZDg5YzU2/file.PNG)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8CBWAEXMNN5Q)
 
