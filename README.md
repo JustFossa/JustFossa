@@ -7,9 +7,7 @@ I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh 
 None rn (Lazy), some discord projects coming soon
 
 ## Github Stats
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&hide_border=true&layout=compact&theme=dracula)
 
@@ -20,7 +18,9 @@ If you would like to contribute to any of my repositories, just feel free to cre
 
 ## Do you like my creations?
 If you like my creations, feel free to support me. You can either:
+
 <a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
+
 Or send me any amount of money to my paypal using button below
 
 [![paypal](https://pics.paypal.com/00/s/YjBmNTRiY2ItOWJiZS00NzY1LWFhYzItZTBlOTk0ZDg5YzU2/file.PNG)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8CBWAEXMNN5Q)
