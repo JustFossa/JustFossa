@@ -15,6 +15,8 @@ None rn (Lazy), some discord projects coming soon
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
 
+## Supporting
+<a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -24,6 +26,3 @@ None rn (Lazy), some discord projects coming soon
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/justfossa)
-
-https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png
