@@ -26,7 +26,7 @@ Or send me any amount of money to my paypal using button below
 [![paypal](https://pics.paypal.com/00/s/YjBmNTRiY2ItOWJiZS00NzY1LWFhYzItZTBlOTk0ZDg5YzU2/file.PNG)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8CBWAEXMNN5Q)
 
 Even server boosting on my discord server helps alot
-( Just please, dont use mom's credit card ) 
+( Just please, don't use mom's credit card ) 
 
 ## Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
