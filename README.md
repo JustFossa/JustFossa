@@ -1,7 +1,7 @@
 -----
 ### Hi there 👋
 I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
-
+-----
 ## Projects
 
 Currently working on discord bot (JustBot), you can find open-source repository for it in my repos
@@ -35,4 +35,4 @@ Even server boosting on my discord server helps alot
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
------
+
