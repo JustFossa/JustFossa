@@ -1,7 +1,7 @@
------
+
 ### Hi there 👋
 I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
------
+
 ## Projects
 
 Currently working on discord bot (JustBot), you can find open-source repository for it in my repos
@@ -12,6 +12,7 @@ Currently working on discord bot (JustBot), you can find open-source repository 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&hide_border=true&layout=compact&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
+
 ## Wanna contribute?
 If you would like to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
 
