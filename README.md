@@ -1,26 +1,40 @@
 -----
-
-<p align = "center">
-<img src="https://media.discordapp.net/attachments/855899695373353001/886697640576827422/f4bf62b4de7f992c58a05606c0282392.gif">
-</p>
+### Hi there 👋
+I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
 
 -----
-### <p align="center">⚙️ &nbsp;Stats</p>
-<br>
-<p align="center">
-<a href="https://github.com/JustFossa">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JustFossa&show_icons=true&theme=radical"/>
-  <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JustFossa&layout=compact&langs_count=8&theme=radical"/>
-</a>
-  
-</p>
+## Projects
 
+Currently working on discord bot (JustBot), you can find open-source repository for it in my repos
 -----
-### <p align="center">Socials</p>
-<br>
-<p align="center">
-  <img align="center" alt="My Twitter | @bytixoh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</p>
-<br>
+## Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&hide_border=true&layout=compact&theme=dracula)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
+-----
+## Wanna contribute?
+If you would like to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
+-----
+## Do you like my creations?
+If you like my creations, feel free to support me. You can either:
+
+<a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
+
+Or send me any amount of money to my paypal using button below
+
+[![paypal](https://pics.paypal.com/00/s/YjBmNTRiY2ItOWJiZS00NzY1LWFhYzItZTBlOTk0ZDg5YzU2/file.PNG)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8CBWAEXMNN5Q)
+
+Even server boosting on my discord server helps alot
+( Just please, don't use mom's credit card ) 
+-----
+## Languages and Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 -----
