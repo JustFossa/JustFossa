@@ -2,21 +2,19 @@
 ### Hi there 👋
 I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
 
------
 ## Projects
 
 Currently working on discord bot (JustBot), you can find open-source repository for it in my repos
------
+
 ## Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&hide_border=true&layout=compact&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
------
 ## Wanna contribute?
 If you would like to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
------
+
 ## Do you like my creations?
 If you like my creations, feel free to support me. You can either:
 
@@ -28,7 +26,7 @@ Or send me any amount of money to my paypal using button below
 
 Even server boosting on my discord server helps alot
 ( Just please, don't use mom's credit card ) 
------
+
 ## Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
