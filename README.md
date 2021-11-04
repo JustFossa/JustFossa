@@ -1,25 +1,35 @@
-### Hi there 👋
-I code stuff... and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
+-----
 
+<p align = "center">
+<img src="https://media.discordapp.net/attachments/855899695373353001/886697640576827422/f4bf62b4de7f992c58a05606c0282392.gif">
+</p>
 
-## Projects
+-----
+### <p align="center">⚙️ &nbsp;Stats</p>
+<br>
+<p align="center">
+<a href="https://github.com/bytixo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bytixo&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bytixo&layout=compact&langs_count=8&theme=radical"/>
+</a>
+  
+</p>
 
-Currently working on discord bot (JustBot), you can find open-source repository for it in my repos
+-----
+### <p align="center">Socials</p>
+<br>
+<p align="center">
+  <img align="center" alt="My Twitter | @bytixoh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</p>
+<br>
 
-## Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justfossa&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+-----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfossa&hide_border=true&layout=compact&theme=dark)
+### <p align="center">Do you like my creations?</p>
+<p align="center">
+  If you like my creations, feel free to support me. You can either:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
-
-## Wanna contribute?
-If you would like to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
-
-## Do you like my creations?
-If you like my creations, feel free to support me. You can either:
-
-<a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
+  <a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
 
 Or send me any amount of money to my paypal using button below
 
@@ -27,7 +37,10 @@ Or send me any amount of money to my paypal using button below
 
 Even server boosting on my discord server helps alot
 ( Just please, don't use mom's credit card ) 
+ </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justfossa"/></p>
 
+-----
 ## Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
