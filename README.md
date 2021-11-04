@@ -8,9 +8,9 @@
 ### <p align="center">⚙️ &nbsp;Stats</p>
 <br>
 <p align="center">
-<a href="https://github.com/bytixo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bytixo&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bytixo&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/JustFossa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustFossa&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JustFossa&layout=compact&langs_count=8&theme=radical"/>
 </a>
   
 </p>
