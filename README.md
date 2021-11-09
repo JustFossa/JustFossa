@@ -18,7 +18,7 @@ If you would like to contribute to any of my repositories, just feel free to cre
 
 ## Do you like my creations?
 If you like my creations, feel free to support me. You can either:
-<a href="https://www.buymeacoffee.com/justfossa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="82" width="348"></a>
+<a href='https://ko-fi.com/H2H66X8ZG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Or send me any amount of money to my paypal using button below
 
