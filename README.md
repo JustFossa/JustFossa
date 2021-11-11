@@ -17,13 +17,9 @@ Currently working on discord bot (JustBot), you can find open-source repository 
 If you would like to contribute to any of my repositories, just feel free to create pull request. I'll review it, and you'll have a chance to become contributor ;)
 
 ## Do you like my creations?
-If you like my creations, feel free to support me. You can either:
+If you like my creations, feel free to support me. You can:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H66X8ZG)
-
-Or send me any amount of money to my paypal using button below
-
-[![paypal](https://pics.paypal.com/00/s/YjBmNTRiY2ItOWJiZS00NzY1LWFhYzItZTBlOTk0ZDg5YzU2/file.PNG)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8CBWAEXMNN5Q)
 
 Even server boosting on my discord server helps alot
 ( Just please, don't use mom's credit card ) 
