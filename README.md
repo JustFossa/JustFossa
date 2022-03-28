@@ -5,10 +5,10 @@
 
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My Name is Martin Johansen, I'm a Norwegian web and app developer. I currently work as CTO @ Share-Park.
-I started as a web developer back in 2014 when I was offered a chance to take over the development of an admin panel for a call of duty 4 server.
-I leaped into action and started learning PHP and MySQL with JQuery. Today I'm working on lots of different side project mainly using JavaScript.
-One of my favorite projects are CoffeeBot, a Discord and Twitch bot that favors user activity.
+My Name is JustFossa, I'm a Czech web and app developer.
+I started as a javascript developer back in 2019 when I was offered a chance to take over the development of a Discord Bot called Krony.
+I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
+One of my favorite projects is Krony, a Discord bot that has ton and a half of moderation commands.
 
 
 <br />
