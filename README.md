@@ -1,7 +1,7 @@
 <img src="assets/banner/banner.png" width="100%" />
 
 
-<img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="ilostmymedic" /> <img src="assets/badges/CTO.svg" alt="SVG" /> <img src="assets/badges/developer.svg" alt="SVG" /> <img src="assets/badges/App.svg" alt="SVG" />
+<img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
 
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
