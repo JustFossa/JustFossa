@@ -1,4 +1,4 @@
-<img src="assets/banner/banner.png" width="100%" />
+<img src="assets/readme-banner.png" width="100%" />
 
 
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
