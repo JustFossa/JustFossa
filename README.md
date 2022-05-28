@@ -61,8 +61,8 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 </p>
   <a href="https://github.com/JustFossa">
-<img src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg">
   </a>
 </div>
 
-<img algin="center" src="https://discord.c99.nl/widget/theme-4/931463499182395392.png">
+<img align="center" src="https://discord.c99.nl/widget/theme-4/931463499182395392.png">
