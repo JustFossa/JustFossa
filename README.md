@@ -21,9 +21,6 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 ### Languages and Tools:
 
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
-
-
 ##### Web Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
@@ -67,3 +64,5 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 <img src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg">
   </a>
 </div>
+
+<img src="https://discord.c99.nl/widget/theme-4/931463499182395392.png">
