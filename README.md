@@ -61,3 +61,9 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=justfossa&theme=tokyonight_duo&hide_border=true" alt="justfossa" /></p>
+
+</p>
+  <a href="https://github.com/JustFossa">
+<img src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg">
+  </a>
+</div>
