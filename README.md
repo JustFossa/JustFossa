@@ -65,4 +65,4 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
   </a>
 </div>
 
-<img src="https://discord.c99.nl/widget/theme-4/931463499182395392.png">
+<img algin="center" src="https://discord.c99.nl/widget/theme-4/931463499182395392.png">
