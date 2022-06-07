@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
 
 
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 My Name is JustFossa, I'm a Czech web and app developer.
 I started as a javascript developer back in 2019 when I was offered a chance to take over the development of a Discord Bot called Krony.
 I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
