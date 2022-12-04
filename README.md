@@ -6,14 +6,12 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 My Name is JustFossa, I'm a Czech web and app developer.
-I started as a javascript developer back in 2019 when I was offered a chance to take over the development of a Discord Bot called Krony.
-I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
-One of my favorite projects is Krony, a Discord bot that has ton and a half of moderation commands.
+I started as a javascript developer back in 2019. Today I'm working on lots of different side projects mainly using JavaScript and Typescript.
 
 
 <br />
 
-- 💼 In need of a freelancer? [Send me an email](mailto:contact@justfossa.xyz)
+- 💼 In need of a freelancer? [Send me an email](mailto:justfossa@protonmail.com)
 - 💬 Ask me anything, I'm happy to help
 
 
@@ -27,11 +25,13 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt "typescript" width"40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></code>
 
 
 ##### App Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt "typescript" width"40"/></code>
 
 
 ##### Backend
@@ -41,7 +41,6 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 ##### Database
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/></code>
 
 
 ##### Data Visualization
