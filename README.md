@@ -65,5 +65,5 @@ I started as a javascript developer back in 2019. Today I'm working on lots of d
   </a>
 
 
-  <p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/1030767320127242290" href="https://discord.com/users/1030767320127242290"/></p>
+  <p align="center"><a href="https://discord.com/users/1030767320127242290"><img src="https://lanyard.cnrad.dev/api/1030767320127242290"></a></p>
 
