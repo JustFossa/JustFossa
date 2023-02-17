@@ -64,6 +64,6 @@ I started as a javascript developer back in 2019. Today I'm working on lots of d
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg"></p>
   </a>
 </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1030767320127242290)](https://discord.com/users/1030767320127242290)
-
+<p align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1030767320127242290)](https://discord.com/users/1030767320127242290)
+</p>
