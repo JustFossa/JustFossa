@@ -65,3 +65,5 @@ I started as a javascript developer back in 2019. Today I'm working on lots of d
   </a>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1030767320127242290)](https://discord.com/users/1030767320127242290)
+
