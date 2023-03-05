@@ -4,18 +4,16 @@
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
 
 
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-My Name is JustFossa, I'm a Czech web and app developer.
-I started as a javascript developer back in 2019. Today I'm working on lots of different side projects mainly using JavaScript and Typescript.
-
-
 <br />
 
-- 💼 In need of a freelancer? [Send me an email](mailto:justfossa@protonmail.com)
+- 💼 In need of a freelancer? [Send me an email](mailto:hello@justfossa.dev)
 - 💬 Ask me anything, I'm happy to help
 
 
 <br />
+
+### Portfolio
+[My Website](https://justfossa.dev)
 
 ### Languages and Tools:
 
@@ -58,12 +56,10 @@ I started as a javascript developer back in 2019. Today I'm working on lots of d
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=justfossa&theme=tokyonight_duo&hide_border=true" alt="justfossa" /></p>
-
 </p>
-  <a href="https://github.com/JustFossa">
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg"></p>
-  </a>
 
 
   <p align="center"><a href="https://discord.com/users/1030767320127242290"><img src="https://lanyard.cnrad.dev/api/1030767320127242290"></a></p>
-
+<a href="https://github.com/JustFossa">
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg"></p>
+  </a>
