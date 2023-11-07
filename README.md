@@ -60,6 +60,5 @@
 
 
   <p align="center"><a href="https://discord.com/users/750454092836503613"><img src="https://lanyard.cnrad.dev/api/750454092836503613"></a></p>
-<a href="https://github.com/JustFossa">
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/justfossa/JustFossa/output/github-contribution-grid-snake.svg"></p>
-  </a>
+
+
