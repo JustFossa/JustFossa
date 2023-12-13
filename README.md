@@ -4,7 +4,7 @@ export const JustFossa = {
   "languages": ["Typescript", "Javascript", "Rust", "C#"],
   "backend": ["Express.js", "prisma"],
   "databases": ["PostgreSQL", "MongoDB"],
-  "ides": ["VSCode", "Clion", "Intellij Idea"]
+  "ides": ["VSCode", "Clion", "Intellij Idea", "DataGrip"]
 } as TSEngineer
 ```
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
