@@ -1,10 +1,10 @@
 ```ts
 export const JustFossa = {
-  "frontend": ["Next.js", "React.js", "Tailwindcss", "Sass"],
+  "frontend": ["Next.js", "React.js", "Tailwindcss"],
   "languages": ["Typescript", "Javascript", "Rust", "C#"],
-  "backend": ["Express.js", "prisma"],
+  "backend": ["Express.js", "PrismaORM"],
   "databases": ["PostgreSQL", "MongoDB"],
-  "ides": ["VSCode", "Clion", "Intellij Idea", "DataGrip"]
+  "ides": ["VSCode", "Clion", "DataGrip"]
 } as SoftwareEngineer
 ```
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
