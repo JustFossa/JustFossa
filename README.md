@@ -1,8 +1,8 @@
 ```ts
 export const JustFossa = {
   "frontend": ["Next.js", "Astro.js", "React.js", "Tailwindcss"],
-  "languages": ["Typescript", "Javascript", "Python", "Rust"],
-  "backend": ["Express.js", "PrismaORM"],
+  "languages": ["Typescript", "Javascript", "Python", "Rust", "Go"],
+  "backend": ["Express.js", "GoFiber", "PrismaORM"],
   "databases": ["PostgreSQL", "MongoDB"],
   "ides": ["VSCode", "Clion", "DataGrip"]
 } as SoftwareEngineer
