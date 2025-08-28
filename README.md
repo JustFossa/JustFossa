@@ -10,6 +10,6 @@ export const JustFossa = {
 
 
 <img src="https://komarev.com/ghpvc/?username=justfossa&label=Profile%20views&color=0e75b6&style=flat" alt="justfossa" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=justfossa&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=justfossa&theme=shadow_blue&hide_border=false)
 
 
